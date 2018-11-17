@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "WebDesk",
+    "packageName": "com.logia.main",
+    "packageFolder": "com/logia/main",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "NDFmYTU5NTY4Zjg5ZmY0MDQwM2E3MzhmNDE2MzRiNzk2ZTdlMDk2MWRkYjQxMzQ1ZGQxNDE4Njc1NGM5ZDk1NTExYWM2ZjgzYzc2MzM2ZTZkMjk2YWM5MWU1MGI3NTdkM2RkZWU1NjE5MjQyZTExZjJjYjYxYzI4NGE5MDk2ZTQ=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "trexx101",
+  "repository-name": "webdesk-master"
+}
